@@ -1,0 +1,231 @@
+12/17/2014 8:28:03 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:28:04 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">56336</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:28:04 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:28:11 AM	10.8.144.110:1551 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">24358</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:28:11 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:31:11 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:31:11 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">24705</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:31:11 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:31:25 AM	10.8.144.110:1556 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">60695</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:31:25 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:34:00 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:34:00 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">16255</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:34:00 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:37:52 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:37:52 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">57788</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:37:52 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:38:02 AM	10.8.144.110:1559 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">1545</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:38:02 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:39:07 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:39:07 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">31848</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:39:07 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:40:21 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:40:21 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">56430</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:40:21 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:40:25 AM	10.8.144.110:1561 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">55353</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:40:25 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:41:39 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:41:39 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">1141</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:41:39 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:41:42 AM	10.8.144.110:1564 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">54227</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:41:42 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:42:03 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:42:03 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">27443</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:42:03 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:42:31 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:42:31 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">17487</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:42:31 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:43:07 AM	10.8.144.110:1569 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">2880</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:43:07 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:44:28 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:44:28 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">55803</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:44:28 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:44:29 AM	10.8.144.110:1570 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">15763</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:44:29 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:44:47 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 8:44:47 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">13824</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 8:44:47 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 9:13:49 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 9:13:49 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">55529</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/17/2014 9:13:49 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 9:13:51 AM	10.8.144.110:1575 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">28081</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 9:13:51 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 9:14:00 AM	10.8.144.110:1576 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">36318</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 9:14:00 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 9:14:11 AM	10.8.144.110:1577 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">34218</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 9:14:11 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/17/2014 9:14:45 AM	10.8.144.110:1578 -> 0.0.0.0:8001
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">52260</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 9:14:45 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)

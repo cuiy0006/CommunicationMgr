@@ -1,0 +1,65 @@
+12/16/2014 5:21:59 PM	0.0.0.0:31211 start Accept()
+12/16/2014 5:22:00 PM	10.8.144.102:31211 start Receive()
+12/16/2014 5:22:01 PM	<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Body">xczc</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:1506
+12/16/2014 5:22:08 PM	<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">1887</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:1506
+12/16/2014 5:22:08 PM	FileTransfer Connection is built!
+12/16/2014 5:22:09 PM	>>>Error Occur in CloseSocket:A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Stack Trace:
+   at System.Net.Sockets.Socket.get_RemoteEndPoint()
+   at TCPManager.TCPMgr.CloseSocket(Socket socket) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 385
+
+12/16/2014 5:24:34 PM	10.8.144.102:63991 start Receive()
+12/16/2014 5:24:36 PM	10.8.144.102:63991 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">PEEWWZHANG</ReportVariable>
+    <ReportVariable logicalName="Body">11111</ReportVariable>
+  </RPTID>
+</CEID>
+12/16/2014 5:24:49 PM	<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">2777</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:1506
+12/16/2014 5:24:49 PM	FileTransfer Connection is built!
+12/16/2014 5:24:50 PM	>>>Error Occur in CloseSocket:A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Stack Trace:
+   at System.Net.Sockets.Socket.get_RemoteEndPoint()
+   at TCPManager.TCPMgr.CloseSocket(Socket socket) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 385
+
+12/16/2014 5:24:50 PM	<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">2564</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.59:15375
+12/16/2014 5:24:50 PM	FileTransfer Connection is built!
+12/16/2014 5:24:50 PM	>>>Error Occur in CloseSocket:A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Stack Trace:
+   at System.Net.Sockets.Socket.get_RemoteEndPoint()
+   at TCPManager.TCPMgr.CloseSocket(Socket socket) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 385
+

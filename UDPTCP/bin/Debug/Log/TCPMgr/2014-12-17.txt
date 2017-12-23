@@ -1,0 +1,267 @@
+12/17/2014 8:28:04 AM	0.0.0.0:56336 start Accept()
+12/17/2014 8:28:05 AM	10.8.144.102:56336 start Receive()
+12/17/2014 8:28:09 AM	>>>Error Occur in ReceiveData:An existing connection was forcibly closed by the remote host
+Stack Trace:
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at TCPManager.TCPMgr.ReceiveData(Object obj) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 185
+
+12/17/2014 8:28:11 AM	10.8.144.102:51628 start Receive()
+12/17/2014 8:28:16 AM	10.8.144.102:51628 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">eee</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:28:23 AM	<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">46506</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:24358
+12/17/2014 8:28:23 AM	FileTransfer Connection is built!
+12/17/2014 8:28:24 AM	>>>Error Occur in CloseSocket:A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Stack Trace:
+   at System.Net.Sockets.Socket.get_RemoteEndPoint()
+   at TCPManager.TCPMgr.CloseSocket(Socket socket) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 387
+
+12/17/2014 8:31:11 AM	0.0.0.0:24705 start Accept()
+12/17/2014 8:31:25 AM	10.8.144.102:51652 start Receive()
+12/17/2014 8:31:27 AM	10.8.144.102:51652 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">aa</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:31:33 AM	<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">49122</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:60695
+12/17/2014 8:31:33 AM	FileTransfer Connection is built!
+12/17/2014 8:31:33 AM	>>>Error Occur in SendFile:Specified argument was out of the range of valid values.
+Parameter name: size
+Stack Trace:
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at TCPManager.TCPMgr.SendFile(String ipaddress, String path) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 286
+
+12/17/2014 8:31:33 AM	>>>Error Occur in CloseSocket:A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Stack Trace:
+   at System.Net.Sockets.Socket.get_RemoteEndPoint()
+   at TCPManager.TCPMgr.CloseSocket(Socket socket) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 387
+
+12/17/2014 8:34:00 AM	0.0.0.0:16255 start Accept()
+12/17/2014 8:37:52 AM	0.0.0.0:57788 start Accept()
+12/17/2014 8:38:02 AM	10.8.144.102:51678 start Receive()
+12/17/2014 8:38:05 AM	<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">26121</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:1545
+12/17/2014 8:38:05 AM	FileTransfer Connection is built!
+12/17/2014 8:38:05 AM	>>>Error Occur in CloseSocket:A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Stack Trace:
+   at System.Net.Sockets.Socket.get_RemoteEndPoint()
+   at TCPManager.TCPMgr.CloseSocket(Socket socket) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 393
+
+12/17/2014 8:39:07 AM	0.0.0.0:31848 start Accept()
+12/17/2014 8:40:21 AM	0.0.0.0:56430 start Accept()
+12/17/2014 8:40:25 AM	10.8.144.102:51695 start Receive()
+12/17/2014 8:40:32 AM	<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">46725</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:55353
+12/17/2014 8:40:32 AM	FileTransfer Connection is built!
+12/17/2014 8:40:33 AM	>>>Error Occur in CloseSocket:A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Stack Trace:
+   at System.Net.Sockets.Socket.get_RemoteEndPoint()
+   at TCPManager.TCPMgr.CloseSocket(Socket socket) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 394
+
+12/17/2014 8:41:39 AM	0.0.0.0:1141 start Accept()
+12/17/2014 8:41:42 AM	10.8.144.102:51707 start Receive()
+12/17/2014 8:41:44 AM	10.8.144.102:51707 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">aa</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:42:03 AM	0.0.0.0:27443 start Accept()
+12/17/2014 8:42:04 AM	10.8.144.102:27443 start Receive()
+12/17/2014 8:42:09 AM	<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Body">aa</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:1565
+12/17/2014 8:42:31 AM	0.0.0.0:17487 start Accept()
+12/17/2014 8:42:32 AM	10.8.144.102:17487 start Receive()
+12/17/2014 8:42:40 AM	10.8.144.102:17487 Receive : 
+<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">59347</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:42:44 AM	>>>Error Occur in ReceiveData:An existing connection was forcibly closed by the remote host
+Stack Trace:
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at TCPManager.TCPMgr.ReceiveData(Object obj) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 185
+
+12/17/2014 8:43:07 AM	10.8.144.102:51718 start Receive()
+12/17/2014 8:43:09 AM	10.8.144.102:51718 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">111</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 8:43:13 AM	>>>Error Occur in ReceiveData:An existing connection was forcibly closed by the remote host
+Stack Trace:
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at TCPManager.TCPMgr.ReceiveData(Object obj) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 185
+
+12/17/2014 8:44:28 AM	0.0.0.0:55803 start Accept()
+12/17/2014 8:44:29 AM	10.8.144.102:51747 start Receive()
+12/17/2014 8:44:33 AM	<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">41839</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:15763
+12/17/2014 8:44:33 AM	FileTransfer Connection is built!
+12/17/2014 8:44:37 AM	>>>Error Occur in CloseSocket:A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Stack Trace:
+   at System.Net.Sockets.Socket.get_RemoteEndPoint()
+   at TCPManager.TCPMgr.CloseSocket(Socket socket) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 394
+
+12/17/2014 8:44:47 AM	0.0.0.0:13824 start Accept()
+12/17/2014 8:44:48 AM	10.8.144.102:13824 start Receive()
+12/17/2014 8:44:53 AM	<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Body">aaa</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:1572
+12/17/2014 8:44:58 AM	<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">28175</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:1572
+12/17/2014 8:44:58 AM	FileTransfer Connection is built!
+12/17/2014 8:44:58 AM	>>>Error Occur in CloseSocket:A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Stack Trace:
+   at System.Net.Sockets.Socket.get_RemoteEndPoint()
+   at TCPManager.TCPMgr.CloseSocket(Socket socket) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 394
+
+12/17/2014 9:13:49 AM	0.0.0.0:55529 start Accept()
+12/17/2014 9:13:51 AM	10.8.144.102:51962 start Receive()
+12/17/2014 9:13:52 AM	10.8.144.102:51962 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">xxx</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 9:13:58 AM	>>>Error Occur in ReceiveData:An existing connection was forcibly closed by the remote host
+Stack Trace:
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at TCPManager.TCPMgr.ReceiveData(Object obj) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 185
+
+12/17/2014 9:14:00 AM	10.8.144.102:51963 start Receive()
+12/17/2014 9:14:09 AM	>>>Error Occur in ReceiveData:An existing connection was forcibly closed by the remote host
+Stack Trace:
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at TCPManager.TCPMgr.ReceiveData(Object obj) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 185
+
+12/17/2014 9:14:11 AM	10.8.144.102:51964 start Receive()
+12/17/2014 9:14:12 AM	10.8.144.102:51964 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">aaaaa</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 9:14:17 AM	10.8.144.102:51964 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">ssss</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 9:14:27 AM	<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Body">zzz</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:34218
+12/17/2014 9:14:37 AM	>>>Error Occur in ReceiveData:An existing connection was forcibly closed by the remote host
+Stack Trace:
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   at TCPManager.TCPMgr.ReceiveData(Object obj) in D:\Working\Projects\CPlusPlus\UDPTCP\TCPMgr\TCPMgr.cs:line 185
+
+12/17/2014 9:14:45 AM	10.8.144.102:51965 start Receive()
+12/17/2014 9:14:48 AM	10.8.144.102:51965 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">xxxxooo</ReportVariable>
+  </RPTID>
+</CEID>
+12/17/2014 9:16:56 AM	<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Body">gggg</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:52260
+12/17/2014 9:17:00 AM	10.8.144.102:51965 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">xxxx</ReportVariable>
+  </RPTID>
+</CEID>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Protocol>
+  <CEID id="0" logicalName="UdpConnect">
+    <RPTID id="0" logicalName="UdpInfo">
+      <ReportVariable id="0" logicalName="Owner"/>
+      <ReportVariable id="1" logicalName="Port"/>
+      <ReportVariable id="2" logicalName="IPAddress"/>
+    </RPTID>
+  </CEID>
+  <CEID id="1" logicalName="SendMessage">
+    <RPTID id="1" logicalName="Message">
+      <ReportVariable id="0" logicalName="Owner"/>
+      <ReportVariable id="3" logicalName="Body"/>
+    </RPTID>
+  </CEID>
+  <CEID id="2" logicalName="FileTransferConnect">
+    <RPTID id="2" logicalName="FileAndConnectionInfo">
+      <ReportVariable id="0" logicalName="Owner"/>
+      <ReportVariable id="1" logicalName="Port"/>
+      <ReportVariable id="2" logicalName="IPAddress"/>
+      <ReportVariable id="3" logicalName="FileName"/>
+      <ReportVariable id="4" logicalName="FileSize"/>      
+    </RPTID>
+  </CEID>
+</Protocol>

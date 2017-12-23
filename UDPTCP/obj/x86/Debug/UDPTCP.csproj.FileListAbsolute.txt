@@ -1,0 +1,15 @@
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\UDPTCP.exe
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\UDPTCP.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\KernelProcessor.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\Utility.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\UDPMgr.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\TCPMgr.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\KernelProcessor.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\Utility.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\UDPMgr.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\bin\Debug\TCPMgr.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\obj\x86\Debug\UDPTCP.exe
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPTCP\obj\x86\Debug\UDPTCP.pdb
+F:\CarryAway\UDPTCP\UDPTCP\obj\x86\Debug\UDPTCP.exe
+F:\CarryAway\UDPTCP\UDPTCP\obj\x86\Debug\UDPTCP.pdb

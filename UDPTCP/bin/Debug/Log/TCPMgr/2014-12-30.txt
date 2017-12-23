@@ -1,0 +1,42 @@
+12/30/2014 10:45:57 AM	0.0.0.0:53885 start Accept()
+12/30/2014 10:45:58 AM	10.8.144.102:53885 start Receive()
+12/30/2014 10:46:05 AM	10.8.144.102:53885 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">111</ReportVariable>
+  </RPTID>
+</CEID>
+12/30/2014 10:46:19 AM	10.8.144.102:53885 Receive : 
+<CEID logicalName="FileTransferConnect">
+  <RPTID logicalName="FileAndConnectionInfo">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Port">18596</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.110</ReportVariable>
+    <ReportVariable logicalName="FileName">RMC.png</ReportVariable>
+    <ReportVariable logicalName="FileSize">748531</ReportVariable>
+  </RPTID>
+</CEID>
+12/30/2014 10:49:41 AM	0.0.0.0:13300 start Accept()
+12/30/2014 10:49:42 AM	10.8.144.102:13300 start Receive()
+12/30/2014 10:49:55 AM	10.8.144.102:13300 Receive : 
+<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">AB350V09-01</ReportVariable>
+    <ReportVariable logicalName="Body">111</ReportVariable>
+  </RPTID>
+</CEID>
+12/30/2014 10:49:57 AM	<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Body">111</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:2559
+12/30/2014 10:57:21 AM	<CEID logicalName="SendMessage">
+  <RPTID logicalName="Message">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Body">aaa</ReportVariable>
+  </RPTID>
+</CEID>
+is sent to 10.8.144.110:2559

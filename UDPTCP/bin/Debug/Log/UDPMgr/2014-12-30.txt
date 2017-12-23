@@ -1,0 +1,22 @@
+12/30/2014 10:45:57 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/30/2014 10:45:57 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">53885</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/30/2014 10:45:57 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/30/2014 10:49:40 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)
+12/30/2014 10:49:41 AM	Send Udp broadcast : 
+<CEID logicalName="UdpConnect">
+  <RPTID logicalName="UdpInfo">
+    <ReportVariable logicalName="Owner">PEEYCUI</ReportVariable>
+    <ReportVariable logicalName="Port">13300</ReportVariable>
+    <ReportVariable logicalName="IPAddress">10.8.144.102</ReportVariable>
+  </RPTID>
+</CEID>
+
+12/30/2014 10:49:41 AM	0.0.0.0:8001 start to ReceiveFrom() (UDP Server)

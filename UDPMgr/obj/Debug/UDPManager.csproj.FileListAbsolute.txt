@@ -1,0 +1,7 @@
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPMgr\bin\Debug\UDPMgr.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPMgr\bin\Debug\UDPMgr.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPMgr\bin\Debug\Utility.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPMgr\bin\Debug\Utility.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPMgr\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPMgr\obj\Debug\UDPMgr.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\UDPMgr\obj\Debug\UDPMgr.pdb

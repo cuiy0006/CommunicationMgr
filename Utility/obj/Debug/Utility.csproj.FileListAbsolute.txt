@@ -1,0 +1,5 @@
+D:\Working\Projects\CPlusPlus\UDPTCP\Utility\bin\Debug\Utility.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\Utility\bin\Debug\Utility.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Projects\CPlusPlus\UDPTCP\Utility\obj\Debug\Utility.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\Utility\obj\Debug\Utility.pdb

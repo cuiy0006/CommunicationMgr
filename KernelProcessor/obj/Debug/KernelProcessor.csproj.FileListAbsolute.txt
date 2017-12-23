@@ -1,0 +1,11 @@
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\bin\Debug\KernelProcessor.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\bin\Debug\KernelProcessor.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\bin\Debug\TCPMgr.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\bin\Debug\UDPMgr.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\bin\Debug\Utility.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\bin\Debug\TCPMgr.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\bin\Debug\UDPMgr.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\bin\Debug\Utility.pdb
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\obj\Debug\KernelProcessor.dll
+D:\Working\Projects\CPlusPlus\UDPTCP\KernelProcessor\obj\Debug\KernelProcessor.pdb
